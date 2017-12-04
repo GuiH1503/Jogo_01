@@ -22,5 +22,6 @@ function multiplicar(){
 // Função Visualizar  #daniel
 function visualizar(){
 
+ellipse (20, 20, 20, 20);
 
 }
