@@ -1,0 +1,19 @@
+
+// 	Função para Somar
+function somar(){
+
+
+}
+
+// 	Função para Subtrair
+function subtrair(){
+
+
+}
+
+
+//	Função Multiplicar
+function multiplicar(){
+
+
+}	
