@@ -4,3 +4,11 @@ function visualizar(){
 ellipse (20, 20, 20, 20);
 
 }
+
+//fução Dados
+
+function dados(){
+
+
+
+}
