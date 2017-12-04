@@ -1,13 +1,13 @@
 
 // 	Função para Somar
 function somar(){
-
+	return a+b;
 
 }
 
 // 	Função para Subtrair
 function subtrair(){
-
+	return a-b;
 
 }
 
